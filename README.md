@@ -1,2 +1,2 @@
-# isye6740
-assignments GT
+# ISYE6740 Computational Data Analysis
+Neil Shukla Assignments
