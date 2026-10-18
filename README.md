@@ -1,2 +1,2 @@
-# ISYE6740 Computational Data Analysis
+# nshuk
 Neil Shukla Assignments
