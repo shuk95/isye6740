@@ -1,0 +1,5 @@
+Some aircraft positions are missing in this first set, as it is currently used for the CYD Campus/OpenSky Network Aircraft Localization competition.
+
+It will be released fully in February 2021. 
+
+More information available at https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition or with the authors.
